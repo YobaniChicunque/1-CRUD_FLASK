@@ -2,7 +2,7 @@
 
 ## Flujo de trabajo:
 
-1. Registro de Empresas (1 Abril)
+1. Registro de Empresas
     - Información de la empresa:
         - Nombre
         - Descripcion
@@ -22,7 +22,7 @@
         - Tenga un caracter especial
     - Encriptación de la contraseña
 
-2. Inicio de sesión (8 Abril)
+2. Inicio de sesión
     - Formulario de Inicio
         - Email
         - Contraseña
