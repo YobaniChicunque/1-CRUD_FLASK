@@ -1,6 +1,6 @@
 # 1-CRUD_FLASK
 
-Flujo de trabajo:
+## Flujo de trabajo:
 
 1. Registro de Empresas (1 Abril)
     - Información de la empresa:
