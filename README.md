@@ -1,6 +1,12 @@
 # 1-CRUD_FLASK
 
-## Flujo de trabajo:
+Credenciales
+
+>User: edisonchicunque2020@itp.edu.co Password: Ee@45678
+>
+>User: yobanichicunque@gmail.com Password: Yy@45678
+
+### Flujo de trabajo
 
 1. Registro de Empresas
     - Información de la empresa:
